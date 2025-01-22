@@ -3,4 +3,5 @@
 [2] https://journals.lww.com/japtr/fulltext/2010/01020/various_types_and_management_of_breast_cancer__an.3.aspx \
 [3] https://www.ncbi.nlm.nih.gov/books/NBK69188/ \
 [4] https://pmc.ncbi.nlm.nih.gov/articles/PMC5715522/ \
-[5]
+[5] https://www.researchgate.net/profile/Yaima-Galan/publication/285695356_Breast_cancer_risk_in_Cuba/links/59f72d09458515547c234363/Breast-cancer-risk-in-Cuba.pdf \
+[6]
