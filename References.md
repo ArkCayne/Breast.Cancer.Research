@@ -8,4 +8,6 @@
 [7] https://acsjournals.onlinelibrary.wiley.com/doi/full/10.1002/cncr.25650 \
 [8] https://pmc.ncbi.nlm.nih.gov/articles/PMC4690445/ \
 [9] https://www.mdpi.com/1424-8220/17/7/1572 \
-[10] 
+[10] https://www.mdpi.com/2411-9660/2/2/13 \
+[11] https://www.sciencedirect.com/science/article/pii/S2352340924009910 \
+[12]
