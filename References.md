@@ -10,4 +10,6 @@
 [9] https://www.mdpi.com/1424-8220/17/7/1572 \
 [10] https://www.mdpi.com/2411-9660/2/2/13 \
 [11] https://www.sciencedirect.com/science/article/pii/S2352340924009910 \
-[12]
+[12] https://www.mdpi.com/2075-4426/11/2/61 \
+[13] https://d1wqtxts1xzle7.cloudfront.net/63341723/breast-cancer-classification-and-prediction-using-machine-learning-IJERTV9IS02028020200517-93163-753h6o-libre.pdf?1589755503=&response-content-disposition=inline%3B+filename%3DBreast_Cancer_Classification_and_Predict.pdf&Expires=1738142957&Signature=IWVj2syXcrcgsHqbKxD-Ymp15JfxOGkWXXIh7khqnGdrsh59WmhNS4l-rGCVcO~8ofqh4NBoD1RmpKw3vxBiCCSVZXuqCeV97N19~RsELkyD7IIVuzk0jcMRcIfmMJqvLcllMbnS7blaJFYzKeMrF17S9kQktwz2VPI8LhrICoE9C0hIYTAhEz-sSeesc4eUaosz7AQwp-7N8OLl2DQUwUNOcIsdV93g-CECR6UEGdKWbK5uN5QizxtJUUosWuOx~kOSEWKGpNcdl6fknq1eKSNbjfVMAgxj2fKUCZ-GaCTu5c51m5vSa1C~9oHAQnj4jFySfaT5wpbnBNDqsIXJeA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA \
+[14]
